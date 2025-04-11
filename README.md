@@ -1,29 +1,49 @@
-I’m @DigitallyGray
-Call me Digi.
+# Information and Stuff
 
-I'm interesting in software and game development. I like problem solving. 
+I’m @DigitallyGray or just DigitallyGray.
+
+Call me Gray, Digital, Tally (if youre weird), or preferably Digi.
+
 I've been programming for about 1 year.
 
-I have 3, arguably 2, finished projects under my belt.
+## Boring Stuff
 
-The first was one in Python, simple Todo List generator (What I learnt here hard carried me in uni the). It could:
+He/Him | Got the tism.
+
+## Intrests & Hobbies
+
+I'm interested in software and game development. I like problem solving. 
+
+Im also intrested in UX and UI design. 
+I find those fun challenges, because you have to create an appealing design, and then put yourself in the users shoes.
+
+I also make music, mostly for fun, I don't think any of it is good.
+
+## Projects
+
+I have 2 finished projects under my belt.
+
+#### The first one was in Python, simple Todo List generator. It could:
 - Create new todo list
 - Delete todo list
 - Add thing to todo list
 - Remove thing from todo list
 - Swap two things from todo list
+This project taught me a lot, though I still was a bit of a mess, I didn't even know of proper naming conevntions back then either.
 
-The second was my first uni project, simple library system in java. Not going to explain this one.
+#### The second one was my first uni project, simple library system in java. 
+- Add book
+- Remove book
+- List book
+- etc... you get the idea
 
-The other one (not calling it my third) was a mess straight from hell, not talking about it. (It used javascript.)
+There is technically another one (also a uni project), but that was a mess straight from hell. It was a group project, i'm not talking about it. (It used javascript.)
+Wouldn't even call it finished...
 
-Intrested in UX and UI design, I find those fun challenges.
-I also make music, mostly for fun, don't think I'm good.
+## AI Disclaimer:
 
-He/Him | Got the tism.
-
-I use Generative AI for debugging and asking general questions.
-I would never ask it to generate the logic to my code, you have to be genuinely be moronic to even remotely think thats a good idea.
+I use Generative AI for asking general questions and debugging.
+I would never ask it to generate the logic for my code, you have to be genuinely be moronic to even remotely think thats a good idea.
 No, my broken mess logic is all, unfortunately, authentically me... unfortunately.
 
 <!---
