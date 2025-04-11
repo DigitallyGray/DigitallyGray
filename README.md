@@ -21,24 +21,16 @@ I also make music, mostly for fun, I don't think any of it is good.
 
 ## Projects
 
-I have 2 finished projects under my belt.
+I have 1 finished project under my belt.
 
-#### The first one was in Python, simple Todo List generator. It could:
+#### The first one was in Python, simple Todo List generator. It can:
 - Create new todo list
 - Delete todo list
 - Add thing to todo list
 - Remove thing from todo list
 - Swap two things from todo list
-This project taught me a lot, though I still was a bit of a mess, I didn't even know of proper naming conevntions back then either.
-
-#### The second one was my first uni project, simple library system in java. 
-- Add book
-- Remove book
-- List book
-- etc... you get the idea
-
-There is technically another one (also a uni project), but that was a mess straight from hell. It was a group project, i'm not talking about it. (It used javascript.)
-Wouldn't even call it finished...
+This project taught me a lot, though it still is a bit of a mess, I didn't even know of proper naming conevntions back then either.
+Might revisit for renaming everything within it, and adding UI to it.
 
 ## AI Disclaimer:
 
