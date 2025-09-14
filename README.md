@@ -35,8 +35,8 @@ Might revisit for renaming everything within it, and adding UI to it.
 ## AI Disclaimer:
 
 I use Generative AI for asking general questions and debugging.
-I would never ask it to generate the logic for my code, you have to be genuinely be moronic to even remotely think thats a good idea.
-No, my broken mess logic is all, unfortunately, authentically me... unfortunately.
+I would never ask it to generate the logic for my code, you would have to be genuinely be moronic to even remotely think thats a good idea.
+So no, AI doesn't generate code for me. Yes, my broken mess logic is all, unfortunately, authentically me... unfortunately.
 
 <!---
 DigitallyGray/DigitallyGray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
