@@ -21,22 +21,39 @@ I also make music, mostly for fun, I don't think any of it is good.
 
 ## Projects
 
-I have 1 finished project under my belt.
+N: Int = 2
+I have N finished project under my belt.
 
-#### The first one was in Python, simple Todo List generator. It can:
+#### The first notable one was in Python, simple Todo List CLI program. It can:
 - Create new todo list
 - Delete todo list
 - Add thing to todo list
 - Remove thing from todo list
 - Swap two things from todo list
-This project taught me a lot, though it still is a bit of a mess, I didn't even know of proper naming conevntions back then either.
-Might revisit for renaming everything within it, and adding UI to it.
+
+This was my first project project taught me a lot, though it still is a bit of a mess, I didn't even know of proper naming conevntions back then either.
+Might revisit for to allow for checking things off, and adding UI to it.
+
+#### The second notable one was in Java, simple library CLI & GUI program. 
+I'll not really explain this one as I dont really care for it. But it has two versions:
+- CLI Version
+- GUI Version (Basically the CLI version but with colours and images)
+
+Taught me about OOP. Not revisiting
+
+There was also the... group project. Not complete. It was a web project, it was also my *first* **ever** ***group project***. 
+It used:
+- That web develeopment language which I shall not name, you know the one. (Was learning it through the group project, like seriously why tf is `===` valid syntax?)
+- Databases/SQL (Was learning it through the group project, why does SQL yell so much?)
+
+And yes, it was just as much of a dumpster fire as you are currently imagining. 
+(We submited the assignment at 11:58am with a week extention, the deadline with that week extention was at 11:59am)
 
 ## AI Disclaimer:
 
 I use Generative AI for asking general questions and debugging.
-I would never ask it to generate the logic for my code, you would have to be genuinely be moronic to even remotely think thats a good idea.
-So no, AI doesn't generate code for me. Yes, my broken mess logic is all, unfortunately, authentically me... unfortunately.
+I would never ask it to generate the logic for my code, as you would have to be genuinely be moronic to even remotely think thats a good idea.
+So no, AI doesn't generate code for me. And yes, my broken mess logic is all, unfortunately, authentically me... unfortunately.
 
 <!---
 DigitallyGray/DigitallyGray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
