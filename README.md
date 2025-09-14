@@ -34,12 +34,12 @@ I have N finished project under my belt.
 This was my first project project taught me a lot, though it still is a bit of a mess, I didn't even know of proper naming conevntions back then either.
 Might revisit for to allow for checking things off, and adding UI to it.
 
-#### The second notable one was in Java, simple library CLI & GUI program. 
+#### The second notable one was in Java, simple library CLI & GUI program.
 I'll not really explain this one as I dont really care for it. But it has two versions:
 - CLI Version
 - GUI Version (Basically the CLI version but with colours and images)
 
-Taught me about OOP. Not revisiting
+Taught me about OOP. It was only a university project, I'm not revisiting it.
 
 There was also the... group project. Not complete. It was a web project, it was also my *first* **ever** ***group project***. 
 It used:
