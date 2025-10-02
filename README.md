@@ -1,16 +1,20 @@
 # Information and Stuff
 
-I’m @DigitallyGray or just DigitallyGray.
+I’m DigitallyGray.
 
-Call me Gray, Digital, Tally (if youre weird), or preferably Digi.
+Call me Gray, Digital, Tally _(if youre weird)_, fully DigitallyGray, or preferably **Digi**.
 
 I've been programming for about 1 year.
 
 ## Boring Stuff
 
 He/Him | Yes, I am autistic.
-Main PC runs windows 11 (Disgusting I know)
-Laptop runs Arch (btw. Uses GNOME, but one day I'll rice Hyprland... probably.)
+
+## Systems
+
+- Main PC - Runs windows 11 _(Disgusting I know)_
+- Laptop - Runs Arch (btw) (Uses GNOME, _but one day I'll rice Hyprland... probably_.)
+- Steam Deck
 
 ## Intrests & Hobbies
 
