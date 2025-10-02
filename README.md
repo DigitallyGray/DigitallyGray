@@ -22,6 +22,7 @@ I also make music, mostly for fun, I don't think any of it is good.
 ## Projects
 
 N: Int = 2
+
 I have N finished project under my belt.
 
 #### The first notable one was in Python, simple Todo List CLI program. It can:
