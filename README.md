@@ -8,7 +8,9 @@ I've been programming for about 1 year.
 
 ## Boring Stuff
 
-He/Him | Got the tism.
+He/Him | Yes, I am autistic.
+Main PC runs windows 11 (Disgusting I know)
+Laptop runs Arch (btw. Uses GNOME, but one day I'll rice Hyprland... probably.)
 
 ## Intrests & Hobbies
 
@@ -21,9 +23,11 @@ I also make music, mostly for fun, I don't think any of it is good.
 
 ## Projects
 
+```Python
+# Python
 N: Int = 2
-
-I have N finished project under my belt.
+print(f"I have {N} finished project under my belt.")
+```
 
 #### The first notable one was in Python, simple Todo List CLI program. It can:
 - Create new todo list
