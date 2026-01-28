@@ -21,7 +21,7 @@ print(f"I have {n} finished project under my belt.")
 ```
 
 ## Top 2 Projects I Have Made:
-#### Python: Simple Todo List CLI Program: (Personal) 
+#### Simple Todo List CLI Program: Python | (Personal) 
 - Create new todo list
 - Delete todo list
 - Add thing to todo list
@@ -32,7 +32,7 @@ My first finished project. Through it I learnt programming fundimentals and Pyth
 
 Structurally the project is a mess. Might revisit it at somepoint down the line.
 
-#### Java: Simple library CLI Program: (Unversity)
+#### Simple library CLI Program: Java | (Unversity)
 - Add books
 - Remove books
 - checkout books
