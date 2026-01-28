@@ -1,68 +1,48 @@
-# Information and Stuff
+# About Me
+My username (DigitallyGay) is long, shorten it to Gray, Digital, or preferably **Digi**. Though I'm fine with DigitallyGray in full as well.
 
-I’m DigitallyGray.
+He/Him. Autistic.
 
-Call me Gray, Digital, Tally _(if youre weird)_, fully DigitallyGray, or preferably **Digi**.
+I've been programming since around mid/late summer of 2023.
 
-I've been programming for about 1 year.
+Python is my preferred programming, but also fairly comfortable in java as well. Though I'm still very new to both.
 
-## Boring Stuff
-
-He/Him | Yes, I am autistic.
+I briefly touched C# and lua, but I can't say I can use them well.
 
 ## Systems
+Main PC - Runs windows 11 _(Ew)_, but has a linux partition that I'm planning to migrate to.
 
-- Main PC - Runs windows 11 _(Disgusting I know)_
-- Laptop - Runs Arch (btw) (Uses GNOME, _but one day I'll rice Hyprland... probably_.)
-- Steam Deck
-
-## Intrests & Hobbies
-
-I'm interested in software and game development. I like problem solving. 
-
-Im also intrested in UX and UI design. 
-I find those fun challenges, because you have to create an appealing design, and then put yourself in the users shoes.
-
-I also make music, mostly for fun, I don't think any of it is good.
+Laptop - Runs Arch (btw)
 
 ## Projects
-
 ```Python
-# Python
-n: Int = 2
+n: int = 2
 print(f"I have {n} finished project under my belt.")
 ```
 
-#### The first notable one was in Python, simple Todo List CLI program. It can:
+## Top 2 Projects I Have Made:
+#### Python: Simple Todo List CLI Program: (Personal) 
 - Create new todo list
 - Delete todo list
 - Add thing to todo list
 - Remove thing from todo list
 - Swap two things from todo list
 
-This was my first project project taught me a lot, though it still is a bit of a mess, I didn't even know of proper naming conevntions back then either.
-Might revisit for to allow for checking things off, and adding UI to it.
+My first finished project. Through it I learnt programming fundimentals and Python. 
 
-#### The second notable one was in Java, simple library CLI & GUI program.
-I'll not really explain this one as I dont really care for it. But it has two versions:
-- CLI Version
-- GUI Version (Basically the CLI version but with colours and images)
+Structurally the project is a mess. Might revisit it at somepoint down the line.
 
-Taught me about OOP. It was only a university project, I'm not revisiting it.
+#### Java: Simple library CLI Program: (Unversity)
+- Add books
+- Remove books
+- checkout books
+- Search for a book
+- List books in a specific order
 
-There was also the... group project. Not complete. It was a web project, it was also my *first* **ever** ***group project***. 
-It used:
-- That web develeopment language which I shall not name, you know the one. (Was learning it through the group project, like seriously why tf is `===` valid syntax?)
-- Databases/SQL (Was learning it through the group project, why does SQL yell so much?)
-
-And yes, it was just as much of a dumpster fire as you are currently imagining. 
-(We submited the assignment at 11:58am with a week extention, the deadline with that week extention was at 11:59am)
+My second finished project. Through it I learnt the basics of OOP and Java.
 
 ## AI Disclaimer:
-
-I use Generative AI for asking general questions and debugging.
-I would never ask it to generate the logic for my code, as you would have to be genuinely be moronic to even remotely think thats a good idea.
-So no, AI doesn't generate code for me. And yes, my broken mess logic is all, unfortunately, authentically me... unfortunately.
+I use Generative AI for asking questions and debugging. I would never ask it to generate the logic for my code.
 
 <!---
 DigitallyGray/DigitallyGray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
