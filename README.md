@@ -29,8 +29,8 @@ I also make music, mostly for fun, I don't think any of it is good.
 
 ```Python
 # Python
-N: Int = 2
-print(f"I have {N} finished project under my belt.")
+n: Int = 2
+print(f"I have {n} finished project under my belt.")
 ```
 
 #### The first notable one was in Python, simple Todo List CLI program. It can:
