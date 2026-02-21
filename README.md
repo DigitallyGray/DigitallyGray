@@ -1,5 +1,5 @@
 # About Me
-My username (DigitallyGay) is long, shorten it to Gray, Digital, or preferably **Digi**. Though I'm fine with DigitallyGray in full as well.
+My username (DigitallyGray) is long, shorten it to Gray, Digital, or preferably **Digi**. Though I'm fine with DigitallyGray in full as well.
 
 He/Him. Autistic.
 
